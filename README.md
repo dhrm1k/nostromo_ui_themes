@@ -22,3 +22,14 @@ This is a collection of app themes based on the landing gui from Alien's Nostrom
 - Restart KiCad, and select theme (from previous settings page)
 
 I'll get around to properly submitting this to the official KiCad package list at some point..
+
+# Vim/Neovim
+
+![](https://github.com/user-attachments/assets/88a0fba2-431d-4987-9f2f-df70a2aadf33)
+
+## Install
+- Copy & paste nostromo.vim (file) in the colors dir in the .vimrc/nvim dir.
+```viml
+" ~/.vimrc
+colorscheme nostromo
+```
